@@ -12,5 +12,5 @@ required arguments:
   -d, --decode          decode the file
 
 optional arguments:
-  -l LENGTH, --length LENGTH  length and width of the video default is 500
+  -l LENGTH, --length LENGTH  length and width of the video. default is 500
 ```
