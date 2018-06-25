@@ -1,5 +1,5 @@
 # video-er
-This tool converts any file to sequence of frames and then uses ffmpeg to stitch them togrther. uses ffvhuff lossless encoding.
+This tool converts any file to sequence of frames and then uses ffmpeg to stitch them together. uses ffvhuff lossless encoding with avi container.
 ```
 usage: videor.py [-h] -i INPUT -o OUTPUT [-e] [-d] [-l LENGTH]
 
