@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python3
 from multiprocessing.dummy import Pool as ThreadPool
 from hashlib import sha256
 from math import ceil,sqrt
